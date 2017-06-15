@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <com.lch.lpiechart.view.LPiechartView
+                android:id="@+id/lpie_chart"
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:layout_gravity="center_horizontal"
+                app:circleLR="200dp"
+                app:circleMR="80dp" />
+
+            <com.lch.lpiechart.view.PieSlideView
+                android:id="@+id/slide"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="30dp"
+                app:gridHight="84dp"
+                app:gridWidth="144dp"
+                app:hDividerHeight="90dp"
+                app:hDividerWidth="6dp"
+                app:textPCSize="18sp"
+                app:textSize="12sp"
+                app:triangleHeight="25dp"
+                app:vDividerHeight="6dp" />
+
+            <Button
+                android:id="@+id/refresh"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/one"
+                android:layout_centerHorizontal="true"
+                android:gravity="center"
+                android:text="刷新" />
+        </LinearLayout>
+
+</layout>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="LPiechartView">
+        <attr name="circleLR" format="dimension" />   <!--大圆半径-->
+        <attr name="circleMR" format="dimension" />   <!--中间圆半径-->
+        <attr name="textPColor" format="reference|color" />             <!--百分比 默认文本的颜色-->
+        <attr name="textPSize" format="dimension" />   <!--百分比lable字体大小-->
+        <attr name="textPieCenterColor" format="reference|color" /><!--字体颜色-->
+        <attr name="textPieCenterSize" format="dimension" />    <!--字体大小-->
+        <attr name="subtract_height" format="dimension" />   <!--应该被扣除的高度-->
+    </declare-styleable>
+
+    <declare-styleable name="PieSlideView">
+        <attr name="textColor" format="reference|color" />             <!--默认文本的颜色-->
+        <attr name="textSize" format="dimension" />    <!--字体大小-->
+        <attr name="hDividerHeight" format="dimension" />   <!--分割线高度-->
+        <attr name="hDividerWidth" format="dimension" />   <!--分割线宽度-->
+        <attr name="gridHight" format="dimension" />   <!--格子高度高度-->
+        <attr name="gridWidth" format="dimension" />    <!--格子宽度-->
+        <attr name="vDividerHeight" format="dimension" />   <!--垂直分割线高度-->
+        <attr name="textPCSize" format="dimension" />             <!--默认百分比的颜色-->
+        <attr name="triangleHeight" format="dimension" />             <!--三角形高度-->
+        <attr name="dividerColor" format="reference|color" />             <!--默认文本的颜色-->
+        <attr name="gridColor" format="reference|color" />             <!--默认文本的颜色-->
+    </declare-styleable>
+</resources>
