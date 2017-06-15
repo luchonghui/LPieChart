@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">LPieChart</string>
-    <string name="title_activity_main">LPieChart</string>
+    <string name="app_name">PieChart</string>
+    <string name="title_activity_main">PieChart</string>
 </resources>
