@@ -44,4 +44,5 @@ step 2.
 	</dependency>
 
 ## Screenshot
+
 ![demo1](https://github.com/luchonghui/LPieChart/blob/master/screenshot/demo.gif)
