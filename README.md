@@ -42,6 +42,7 @@ step 2.
 	    <artifactId>LPieChart</artifactId>
 	    <version>1.1</version>
 	</dependency>
+```
 
 ## Screenshot
 
