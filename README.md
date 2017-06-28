@@ -45,4 +45,4 @@ step 2.
 
 ## Screenshot
 
-![demo1](https://github.com/luchonghui/LPieChart/blob/master/screenshot/demo.gif)
+![image](https://github.com/luchonghui/LPieChart/blob/master/screenshot/demo.gif)
