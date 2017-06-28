@@ -9,7 +9,7 @@
             android:layout_height="match_parent"
             android:orientation="vertical">
 
-            <com.lch.lpiechart.view.LPiechartView
+            <lch.lpiechart.view.LPiechartView
                 android:id="@+id/lpie_chart"
                 android:layout_width="300dp"
                 android:layout_height="300dp"
@@ -17,7 +17,7 @@
                 app:circleLR="200dp"
                 app:circleMR="80dp" />
 
-            <com.lch.lpiechart.view.PieSlideView
+            <lch.lpiechart.view.PieSlideView
                 android:id="@+id/slide"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

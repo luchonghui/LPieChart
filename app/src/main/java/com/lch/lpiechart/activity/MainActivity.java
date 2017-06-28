@@ -7,12 +7,14 @@ import android.view.LayoutInflater;
 import android.view.View;
 
 import com.lch.lpiechart.R;
-import com.lch.lpiechart.bean.ChartData;
 import com.lch.lpiechart.databinding.ActivityMainBinding;
-import com.lch.lpiechart.view.LPiechartView;
-import com.lch.lpiechart.view.PieSlideView;
+
 
 import java.util.Random;
+
+import lch.lpiechart.bean.ChartData;
+import lch.lpiechart.view.LPiechartView;
+import lch.lpiechart.view.PieSlideView;
 
 public class MainActivity extends AppCompatActivity {
     Random random;
