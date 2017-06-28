@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="F:\chlu-openSourse\LPieChart\LPiechartlib\src\main\res"/><source path="F:\chlu-openSourse\LPieChart\LPiechartlib\build\generated\res\rs\debug"/><source path="F:\chlu-openSourse\LPieChart\LPiechartlib\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="F:\chlu-openSourse\LPieChart\LPiechartlib\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="F:\chlu-openSourse\LPieChart\LPiechartlib\src\main\res"><file path="F:\chlu-openSourse\LPieChart\LPiechartlib\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="PieSlideView">
+        <attr format="reference|color" name="textColor"/>             
+        <attr format="dimension" name="textSize"/>    
+        <attr format="dimension" name="hDividerHeight"/>   
+        <attr format="dimension" name="hDividerWidth"/>   
+        <attr format="dimension" name="gridHight"/>   
+        <attr format="dimension" name="gridWidth"/>    
+        <attr format="dimension" name="vDividerHeight"/>   
+        <attr format="dimension" name="textPCSize"/>             
+        <attr format="dimension" name="triangleHeight"/>             
+        <attr format="reference|color" name="dividerColor"/>             
+        <attr format="reference|color" name="gridColor"/>             
+    </declare-styleable><declare-styleable name="LPiechartView">
+        <attr format="dimension" name="circleLR"/>   
+        <attr format="dimension" name="circleMR"/>   
+        <attr format="reference|color" name="textPColor"/>             
+        <attr format="dimension" name="textPSize"/>   
+        <attr format="reference|color" name="textPieCenterColor"/>
+        <attr format="dimension" name="textPieCenterSize"/>    
+        <attr format="dimension" name="subtract_height"/>   
+    </declare-styleable></file><file path="F:\chlu-openSourse\LPieChart\LPiechartlib\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="fab_margin">16dp</dimen><dimen name="text_size_x_large">20sp</dimen></file><file path="F:\chlu-openSourse\LPieChart\LPiechartlib\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">LPieChart</string></file></source><source path="F:\chlu-openSourse\LPieChart\LPiechartlib\build\generated\res\rs\debug"/><source path="F:\chlu-openSourse\LPieChart\LPiechartlib\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="F:\chlu-openSourse\LPieChart\LPiechartlib\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="LPiechartView"><attr format="dimension" name="circleLR"/><attr format="dimension" name="circleMR"/><attr format="reference|color" name="textPColor"/><attr format="dimension" name="textPSize"/><attr format="reference|color" name="textPieCenterColor"/><attr format="dimension" name="textPieCenterSize"/><attr format="dimension" name="subtract_height"/></declare-styleable><declare-styleable name="PieSlideView"><attr format="reference|color" name="textColor"/><attr format="dimension" name="textSize"/><attr format="dimension" name="hDividerHeight"/><attr format="dimension" name="hDividerWidth"/><attr format="dimension" name="gridHight"/><attr format="dimension" name="gridWidth"/><attr format="dimension" name="vDividerHeight"/><attr format="dimension" name="textPCSize"/><attr format="dimension" name="triangleHeight"/><attr format="reference|color" name="dividerColor"/><attr format="reference|color" name="gridColor"/></declare-styleable></configuration></mergedItems></merger>

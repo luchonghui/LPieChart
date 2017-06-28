@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LPiechartView"><attr format="dimension" name="circleLR"/><attr format="dimension" name="circleMR"/><attr format="reference|color" name="textPColor"/><attr format="dimension" name="textPSize"/><attr format="reference|color" name="textPieCenterColor"/><attr format="dimension" name="textPieCenterSize"/><attr format="dimension" name="subtract_height"/></declare-styleable>
+    <declare-styleable name="PieSlideView"><attr format="reference|color" name="textColor"/><attr format="dimension" name="textSize"/><attr format="dimension" name="hDividerHeight"/><attr format="dimension" name="hDividerWidth"/><attr format="dimension" name="gridHight"/><attr format="dimension" name="gridWidth"/><attr format="dimension" name="vDividerHeight"/><attr format="dimension" name="textPCSize"/><attr format="dimension" name="triangleHeight"/><attr format="reference|color" name="dividerColor"/><attr format="reference|color" name="gridColor"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_size_x_large">20sp</dimen>
+    <string name="app_name">LPieChart</string>
+</resources>
